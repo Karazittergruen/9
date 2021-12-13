@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'kezittergruen-hw10'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D1E74DEED16452A988105E51E7F4D40 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19AB82B1FE5C40C989ED14F7D872189D }}
